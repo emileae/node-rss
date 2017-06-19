@@ -1,0 +1,25 @@
+{
+  "name": "rss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.2",
+    "cron": "^1.2.1",
+    "express": "^4.14.0",
+    "feedparser": "^2.2.0",
+    "jsonwebtoken": "^7.1.9",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.5.9",
+    "normalize-url": "^1.9.1",
+    "request": "^2.81.0",
+    "validator": "^7.0.0"
+  }
+}
